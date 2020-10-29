@@ -16,10 +16,9 @@
 #
 # no comment
 
-中州韻輸入法引擎	rime	2
+浙江省义乌市国际商贸城五区109号门5楼6街71049，于至月，18005796800	yjxx
+浙江省义乌市国际商贸城五区109号门5楼6街71049	bgdz
 又双叒叕	yyy
-http://rime.im/	rime	1
-Rime	rime	3
 ⌘	cmd
 ⌃	ctl
 ⌥	opt
