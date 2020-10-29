@@ -7,7 +7,7 @@ patch:
       name: "空地／placeless"
       author: "placeless"
       alpha: 0.95
-      # horizontal: true # deprecated
+      horizontal: true # deprecated
       candidate_list_layout: linear # stacked | linear
       text_orientation: horizontal # vertical | horizontal
       inline_preedit: true
