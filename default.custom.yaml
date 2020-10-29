@@ -2,14 +2,16 @@ patch:
   schema_list:
     - schema: double_pinyin_flypy
     - schema: luna_pinyin
-  switcher/hotkeys:
-    - F4
-  switcher/save_options:
-    - full_shape
-    - ascii_punct
-    - simplification
-    # - zh_hans
-    # - emoji_suggestion
+  switcher:
+    caption:〔方案选择〕
+    hotkeys:
+      - F4
+    save_options:
+      - full_shape
+      - ascii_punct
+      - simplification
+      # - zh_hans
+      # - emoji_suggestion
   menu/page_size: 9
   ascii_composer/good_old_caps_lock: false
   ascii_composer/switch_key:
