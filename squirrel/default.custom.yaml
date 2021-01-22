@@ -3,3 +3,4 @@ patch:
     - schema: placeless_flypy
   switcher/hotkeys:
     - "Control+grave"
+  switcher/caption: "〔方案设置〕"
