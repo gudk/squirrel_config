@@ -1,0 +1,1156 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin.userdb
+#@/db_type	userdb
+#@/rime_version	1.5.3
+#@/tick	2584
+#@/user_id	gudk
+a 	啊	c=21 d=2.40962 t=2584
+a li 	阿里	c=0 d=0.0102797 t=2584
+a li yun 	阿里雲	c=1 d=0.103312 t=2584
+ai 	唉	c=1 d=0.0280154 t=2584
+an 	岸	c=1 d=0.090718 t=2584
+an 	按	c=2 d=1.55029 t=2584
+an 	案	c=2 d=0.733972 t=2584
+an mo bang 	按摩棒	c=1 d=0.0193512 t=2584
+an quan 	安全	c=1 d=0.0124629 t=2584
+an zhuang 	安裝	c=2 d=0.915208 t=2584
+ang 	卬	c=2 d=0.960789 t=2584
+ao di 	奧迪	c=1 d=0.657047 t=2584
+ba 	吧	c=15 d=2.0522 t=2584
+ba 	把	c=2 d=0.00568457 t=2584
+ba 	霸	c=1 d=0.162838 t=2584
+ba ma 	爸媽	c=1 d=0.0898153 t=2584
+bai wang 	百旺	c=1 d=0.235746 t=2584
+ban 	板	c=0 d=0.000680566 t=2584
+ban 	版	c=1 d=0.937067 t=2584
+ban 	辦	c=5 d=0.77512 t=2584
+ban fa 	辦法	c=1 d=0.00404611 t=2584
+ban gong 	辦公	c=1 d=0.236928 t=2584
+ban gong shi 	辦公室	c=1 d=0.0247235 t=2584
+bang 	幫	c=1 d=0.215456 t=2584
+bang mang 	幫忙	c=1 d=0.429557 t=2584
+bang ni 	幫你	c=1 d=0.588605 t=2584
+bao 	保	c=1 d=0.035437 t=2584
+bao 	報	c=5 d=0.333952 t=2584
+bao guan 	報關	c=0 d=0.0965553 t=2584
+bao guan dan 	報關單	c=1 d=0.579842 t=2584
+bao guan fei 	報關費	c=1 d=0.514274 t=2584
+bao guan zi liao 	報關資料	c=1 d=0.45612 t=2584
+bao hu 	保護	c=1 d=0.187308 t=2584
+bao xian 	保險	c=1 d=0.0109436 t=2584
+bao xiao 	報銷	c=1 d=0.865022 t=2584
+bei 	被	c=1 d=0.0531307 t=2584
+bei an 	備案	c=1 d=0.00308872 t=2584
+bei fen 	備份	c=1 d=0.00571306 t=2584
+bei rui te 	被瑞特	c=1 d=0.255381 t=2584
+ben di 	本地	c=1 d=0.20089 t=2584
+ben ke 	本科	c=1 d=0.66365 t=2584
+ben lai 	本來	c=1 d=0.463013 t=2584
+bi 	比	c=1 d=0.00123091 t=2584
+bi jing 	畢竟	c=1 d=0.00465413 t=2584
+bi ru 	比如	c=2 d=0.532592 t=2584
+bi xu 	必須	c=3 d=0.202816 t=2584
+bian 	變	c=4 d=0.937402 t=2584
+bian hua 	變化	c=2 d=0.0271191 t=2584
+bian ji 	編輯	c=1 d=0.951229 t=2584
+bian lai 	變來	c=1 d=0.0234005 t=2584
+bian qu 	變去	c=1 d=0.0235177 t=2584
+biao 	表	c=1 d=0.434666 t=2584
+biao 	鏢	c=2 d=0.0172173 t=2584
+biao zhun 	標準	c=1 d=0.0788664 t=2584
+bie 	別	c=2 d=0.733447 t=2584
+bie de 	別的	c=1 d=0.111917 t=2584
+bie ren 	別人	c=2 d=1.00944 t=2584
+bing 	並	c=1 d=0.008271 t=2584
+bo li 	玻璃	c=1 d=0.226581 t=2584
+bo yang 	博陽	c=1 d=0.353455 t=2584
+bu 	不	c=9 d=1.40739 t=2584
+bu 	補	c=1 d=0.00729913 t=2584
+bu 	部	c=1 d=0.0223708 t=2584
+bu cha 	不差	c=2 d=1.19537 t=2584
+bu da 	不大	c=1 d=0.0253494 t=2584
+bu ding 	不定	c=1 d=0.0668703 t=2584
+bu duo 	不多	c=1 d=0.540641 t=2584
+bu fen 	部分	c=1 d=0.852144 t=2584
+bu gou 	不夠	c=6 d=0.806541 t=2584
+bu gui fan 	不規範	c=1 d=0.25284 t=2584
+bu hui 	不會	c=5 d=0.634448 t=2584
+bu jie 	不接	c=1 d=0.0124007 t=2584
+bu kai 	不開	c=1 d=0.410656 t=2584
+bu ke neng 	不可能	c=1 d=0.00190171 t=2584
+bu ke qi 	不客氣	c=1 d=0.239309 t=2584
+bu le 	不了	c=1 d=0.118837 t=2584
+bu neng 	不能	c=7 d=1.2407 t=2584
+bu qi 	不齊	c=1 d=0.0120946 t=2584
+bu shang 	不上	c=2 d=0.65377 t=2584
+bu shi 	不是	c=7 d=1.18107 t=2584
+bu suan 	不算	c=2 d=0.0881614 t=2584
+bu tai 	不太	c=2 d=0.790571 t=2584
+bu xing 	不行	c=4 d=1.88412 t=2584
+bu xu yao 	不需要	c=1 d=0.847894 t=2584
+bu yao 	不要	c=1 d=0.588605 t=2584
+bu yi ding 	不一定	c=1 d=0.036334 t=2584
+bu yi yang 	不一樣	c=2 d=0.923116 t=2584
+bu yong 	不用	c=7 d=2.80306 t=2584
+bu zhao ji 	不着急	c=1 d=0.121846 t=2584
+bu zhi 	不止	c=1 d=0.839457 t=2584
+bu zhi dao 	不知道	c=2 d=0.865256 t=2584
+bu zhi yu 	不至於	c=1 d=0.0381969 t=2584
+bu zuo 	不做	c=1 d=0.00104891 t=2584
+cai 	彩	c=2 d=0.0252394 t=2584
+cai 	才	c=1 d=0.00162053 t=2584
+cai 	蔡	c=2 d=0.335318 t=2584
+cai dan 	菜單	c=2 d=0.680451 t=2584
+cai gou 	採購	c=1 d=0.38868 t=2584
+cai liao 	材料	c=2 d=0.054204 t=2584
+cai wu 	財務	c=2 d=0.246217 t=2584
+can 	燦	c=1 d=0.075774 t=2584
+cao zuo 	操作	c=3 d=0.839457 t=2584
+ce shi 	測試	c=2 d=0.975778 t=2584
+cha 	差	c=2 d=0.740818 t=2584
+cha 	查	c=3 d=0.941765 t=2584
+cha bu duo 	差不多	c=1 d=0.212248 t=2584
+cha kan 	查看	c=1 d=0.00895987 t=2584
+chang qi 	長期	c=1 d=0.410656 t=2584
+chao 	超	c=3 d=0.294689 t=2584
+chao jia 	吵架	c=1 d=0.937067 t=2584
+chao shi 	超時	c=1 d=0.0162445 t=2584
+che hui 	撤回	c=1 d=0.618783 t=2584
+che xiao 	撤銷	c=1 d=0.847894 t=2584
+chen 	晨	c=1 d=0.0862936 t=2584
+chen 	琛	c=1 d=0.0898153 t=2584
+chen 	辰	c=1 d=0.0867261 t=2584
+chen 	陳	c=1 d=0.101774 t=2584
+cheng 	城	c=3 d=0.66034 t=2584
+cheng bei 	城北	c=0 d=0.000927901 t=2584
+cheng bei lu 	城北路	c=2 d=0.0187448 t=2584
+cheng du 	程度	c=1 d=1 t=2584
+cheng gong 	成功	c=2 d=0.154124 t=2584
+cheng ji 	成績	c=2 d=0.0175277 t=2584
+cheng xu 	程序	c=1 d=0.621885 t=2584
+chong kai 	重開	c=1 d=0.122456 t=2584
+chong qi 	重啓	c=2 d=1.2407 t=2584
+chong xin 	重新	c=3 d=0.995012 t=2584
+chong zhi 	重置	c=3 d=2.23125 t=2584
+chou cheng 	稠城	c=1 d=0.00923273 t=2584
+chou zhou 	稠州	c=1 d=0.0175097 t=2584
+chu 	出	c=1 d=0.147342 t=2584
+chu kou 	出口	c=1 d=0.722527 t=2584
+chu lai 	出來	c=2 d=0.438933 t=2584
+chu li 	處理	c=4 d=0.726149 t=2584
+chuang kou 	窗口	c=3 d=0.204948 t=2584
+chun 	春	c=1 d=0.0862936 t=2584
+ci 	詞	c=1 d=0.995012 t=2584
+ci ku 	詞庫	c=1 d=0.0205478 t=2584
+cui 	催	c=2 d=0.0189451 t=2584
+cun 	存	c=1 d=0.0378169 t=2584
+cun 	村	c=1 d=0.690734 t=2584
+cuo 	錯	c=1 d=0.00744658 t=2584
+da 	大	c=2 d=0.985112 t=2584
+da 	打	c=5 d=1.54711 t=2584
+da bing 	大病	c=1 d=0.010889 t=2584
+da can 	大餐	c=1 d=0.913931 t=2584
+da e 	大額	c=1 d=0.00571306 t=2584
+da gai 	大概	c=1 d=0.477114 t=2584
+da gou 	打勾	c=3 d=2.77425 t=2584
+da kai 	打開	c=2 d=1.92644 t=2584
+da lao 	大老	c=0 d=0.000680566 t=2584
+da lao ban 	大老板	c=2 d=0.0385843 t=2584
+da qian 	打錢	c=1 d=0.0152222 t=2584
+da xie 	大寫	c=1 d=0.00532682 t=2584
+da yin 	打印	c=2 d=1.55141 t=2584
+da zhi 	大致	c=1 d=0.438235 t=2584
+da zi 	打字	c=1 d=0.843665 t=2584
+dai 	帶	c=2 d=0.021998 t=2584
+dai 	袋	c=2 d=0.0209252 t=2584
+dai li fei 	代理費	c=1 d=0.0265162 t=2584
+dai ma 	代碼	c=1 d=0.000649051 t=2584
+dan 	但	c=1 d=0.151829 t=2584
+dan 	單	c=1 d=0.551563 t=2584
+dan hao 	單號	c=1 d=0.000816895 t=2584
+dan shi 	但是	c=1 d=0.0944202 t=2584
+dan xin 	擔心	c=1 d=0.628135 t=2584
+dang 	當	c=1 d=0.289384 t=2584
+dang an 	檔案	c=3 d=0.565366 t=2584
+dang tian 	當天	c=1 d=0.814647 t=2584
+dao 	到	c=8 d=0.743242 t=2584
+dao ban 	盜版	c=1 d=0.00914087 t=2584
+dao fu 	到付	c=1 d=0.075774 t=2584
+dao ru 	導入	c=3 d=0.980199 t=2584
+dao shi 	倒是	c=1 d=0.0250972 t=2584
+de 	得	c=2 d=0.393197 t=2584
+de 	的	c=150 d=13.3074 t=2584
+deng 	等	c=3 d=0.955723 t=2584
+deng lu 	登錄	c=1 d=0.752014 t=2584
+deng xia 	等下	c=4 d=1.13318 t=2584
+di 	低	c=1 d=0.0227089 t=2584
+di 	第	c=1 d=0.904837 t=2584
+di er 	第二	c=2 d=0.99005 t=2584
+di fang 	地方	c=2 d=0.740818 t=2584
+di kou 	抵扣	c=2 d=0.0231078 t=2584
+di kou lian 	抵扣聯	c=1 d=0.232236 t=2584
+di san fang 	第三方	c=1 d=0.283654 t=2584
+di yi nian 	第一年	c=1 d=0.000581442 t=2584
+di yi wei 	第一位	c=1 d=0.980199 t=2584
+di zhi 	地址	c=2 d=0.843665 t=2584
+dian 	點	c=8 d=0.760111 t=2584
+dian hua 	電話	c=7 d=0.790571 t=2584
+dian nao 	電腦	c=5 d=2.26128 t=2584
+dian zi 	電子	c=8 d=1.03501 t=2584
+diao 	掉	c=9 d=0.852144 t=2584
+ding 	定	c=1 d=0.000804733 t=2584
+ding cang 	定艙	c=1 d=0.519442 t=2584
+ding qi 	定期	c=1 d=0.0130365 t=2584
+dong 	動	c=1 d=0.0017643 t=2584
+dong 	懂	c=1 d=0.115325 t=2584
+dong 	東	c=1 d=0.00927901 t=2584
+dong bu dong 	動不動	c=1 d=0.0248475 t=2584
+dong yang 	東陽	c=2 d=0.369204 t=2584
+dou 	都	c=13 d=2.1166 t=2584
+dou shi 	都是	c=4 d=0.817603 t=2584
+dou yong 	都用	c=2 d=0.70822 t=2584
+du qu 	讀取	c=2 d=1.6652 t=2584
+du ru 	讀入	c=1 d=0.04573 t=2584
+duan qi 	短期	c=1 d=0.0254765 t=2584
+duan xin 	短信	c=1 d=0.0298969 t=2584
+duan yu 	短語	c=2 d=1.23793 t=2584
+dui 	對	c=14 d=2.3821 t=2584
+dui bu shang 	對不上	c=1 d=0.00771183 t=2584
+dui fang 	對方	c=1 d=0.255381 t=2584
+dui gong hu 	對公戶	c=1 d=0.337902 t=2584
+dui ying 	對應	c=3 d=0.858921 t=2584
+duo 	多	c=5 d=1.22063 t=2584
+duo da 	多大	c=2 d=0.986125 t=2584
+duo shao 	多少	c=2 d=0.71177 t=2584
+duo wan 	多萬	c=1 d=0.373439 t=2584
+e 	額	c=3 d=0.00179464 t=2584
+en 	嗯	c=18 d=1.94111 t=2584
+er wei ma 	二維碼	c=1 d=0.000668817 t=2584
+fa 	法	c=1 d=0.628135 t=2584
+fa 	發	c=12 d=1.49516 t=2584
+fa dao 	發到	c=1 d=0.0300468 t=2584
+fa piao 	發票	c=20 d=2.15348 t=2584
+fa ren 	法人	c=2 d=0.83527 t=2584
+fa wen 	發文	c=2 d=0.0164209 t=2584
+fa wo 	發我	c=1 d=0.0871609 t=2584
+fa xian 	發現	c=2 d=0.0112381 t=2584
+fan 	凡	c=1 d=0.00810722 t=2584
+fan xi 	梵喜	c=2 d=0.126585 t=2584
+fan ye 	翻頁	c=2 d=1.96536 t=2584
+fang 	方	c=4 d=1.37859 t=2584
+fang 	芳	c=1 d=0.00663763 t=2584
+fang 	防	c=1 d=0.606531 t=2584
+fang an 	方案	c=1 d=0.980199 t=2584
+fang bian 	方便	c=3 d=1.54655 t=2584
+fang dong 	房東	c=1 d=0.117655 t=2584
+fang xin 	放心	c=1 d=0.00161245 t=2584
+fang zhi 	紡織	c=1 d=0.0105145 t=2584
+fang zi 	房子	c=2 d=0.00302573 t=2584
+fei 	菲	c=1 d=0.00514361 t=2584
+fei 	費	c=4 d=1.15203 t=2584
+fei yong 	費用	c=4 d=0.062869 t=2584
+fen gong si 	分公司	c=1 d=0.927743 t=2584
+fen ju 	分局	c=1 d=0.0125254 t=2584
+feng xian 	風險	c=3 d=0.00424917 t=2584
+fou ze 	否則	c=5 d=0.237504 t=2584
+fu 	付	c=7 d=0.204215 t=2584
+fu 	傅	c=1 d=0.941765 t=2584
+fu dao 	付到	c=4 d=1.97284 t=2584
+fu jian 	福建	c=1 d=0.0103063 t=2584
+fu shi 	服飾	c=1 d=0.00814786 t=2584
+fu tian 	福田	c=1 d=0.0124629 t=2584
+fu wu 	服務	c=1 d=0.970446 t=2584
+fu wu qi 	服務器	c=1 d=0.606531 t=2584
+fu wu ye 	服務業	c=1 d=0.0146986 t=2584
+fu yin 	覆印	c=1 d=0.00891518 t=2584
+fu zhai biao 	負債表	c=2 d=0.0135436 t=2584
+gai 	改	c=5 d=1.26973 t=2584
+gai 	蓋	c=2 d=0.970446 t=2584
+gai ban 	改版	c=1 d=0.143704 t=2584
+gai bian 	改變	c=1 d=0.965605 t=2584
+gai cheng 	改成	c=1 d=0.99005 t=2584
+gai hui lai 	改回來	c=1 d=0.00185476 t=2584
+gai wei 	改爲	c=1 d=0.995012 t=2584
+gang 	剛	c=4 d=0.210136 t=2584
+gang hua 	鋼化	c=1 d=0.219808 t=2584
+gao 	搞	c=2 d=0.954524 t=2584
+gao 	高	c=1 d=0.831104 t=2584
+gao bu ding 	搞不定	c=1 d=0.574072 t=2584
+gao bu dong 	搞不懂	c=1 d=0.19398 t=2584
+gao ding 	搞定	c=1 d=0.0746459 t=2584
+gao qing chu 	搞清楚	c=1 d=0.00321477 t=2584
+gao xin 	高新	c=1 d=0.00647375 t=2584
+ge 	個	c=14 d=1.97804 t=2584
+ge shui 	個稅	c=2 d=0.805059 t=2584
+ge xiang 	各項	c=1 d=0.00786762 t=2584
+ge yue 	個月	c=2 d=0.0599707 t=2584
+gei 	給	c=14 d=1.35373 t=2584
+gen 	跟	c=1 d=0.00744658 t=2584
+gen ben 	根本	c=1 d=0.000825105 t=2584
+gen da 	跟打	c=2 d=0.0165847 t=2584
+gen ju 	根據	c=1 d=0.00775048 t=2584
+gen zong 	跟蹤	c=1 d=0.0204453 t=2584
+geng 	更	c=3 d=1.18494 t=2584
+geng da 	更大	c=1 d=0.00126207 t=2584
+geng duo 	更多	c=1 d=0.160414 t=2584
+geng zheng 	更正	c=1 d=0.00414854 t=2584
+gong cheng 	工程	c=2 d=0.172622 t=2584
+gong gao 	公告	c=2 d=0.414783 t=2584
+gong hu 	公戶	c=0 d=0.0336216 t=2584
+gong ji jin 	公積金	c=2 d=0.34461 t=2584
+gong shang 	工商	c=1 d=0.228779 t=2584
+gong si 	公司	c=6 d=1.27689 t=2584
+gong zhang 	公章	c=1 d=0.377192 t=2584
+gou 	勾	c=1 d=0.878095 t=2584
+gou 	購	c=0 d=0.00387742 t=2584
+gou tong 	溝通	c=1 d=0.0655462 t=2584
+gou xuan 	勾選	c=4 d=0.0104494 t=2584
+gu ding 	固定	c=1 d=0.0442639 t=2584
+gu ding geng 	固定更	c=1 d=0.00918669 t=2584
+gu ji 	估計	c=4 d=0.066205 t=2584
+gua zai 	掛載	c=1 d=0.00631391 t=2584
+guan 	管	c=1 d=0.00548905 t=2584
+guan li ju 	管理局	c=1 d=0.416862 t=2584
+guan xi 	關系	c=1 d=0.135335 t=2584
+guan xi 	關西	c=1 d=0.13466 t=2584
+guang 	廣	c=1 d=0.00171216 t=2584
+gui 	貴	c=1 d=0.00660453 t=2584
+gui tai 	櫃臺	c=1 d=0.0157644 t=2584
+gun dong 	滾動	c=1 d=0.0128424 t=2584
+guo 	過	c=9 d=1.13985 t=2584
+guo ji 	國際	c=3 d=0.252498 t=2584
+guo ji shang mao 	國際商貿	c=1 d=0.657047 t=2584
+guo qu 	過去	c=1 d=0.225373 t=2584
+ha ha 	哈哈	c=4 d=0.434566 t=2584
+hai 	還	c=8 d=1.30124 t=2584
+hai mei 	還沒	c=4 d=0.756311 t=2584
+hai nan 	海南	c=2 d=0.00305369 t=2584
+hai shi 	還是	c=8 d=1.72561 t=2584
+hai yao 	還要	c=1 d=0.0403566 t=2584
+hai yong 	還用	c=1 d=0.293758 t=2584
+hai you 	還有	c=7 d=0.99422 t=2584
+hai zao 	還早	c=1 d=0.018968 t=2584
+han 	汗	c=4 d=0.925399 t=2584
+han 	漢	c=1 d=0.65377 t=2584
+hao 	好	c=35 d=4.46165 t=2584
+hao 	號	c=2 d=0.666977 t=2584
+hao chu 	好處	c=1 d=0.00990218 t=2584
+hao dian 	好點	c=1 d=0.143704 t=2584
+hao duo 	好多	c=2 d=0.847902 t=2584
+hao kan 	好看	c=1 d=0.283654 t=2584
+hao ma 	號碼	c=2 d=0.701173 t=2584
+hao shi 	好事	c=1 d=0.107528 t=2584
+hao xiang 	好像	c=1 d=0.00419023 t=2584
+hao zai 	好在	c=1 d=0.0692522 t=2584
+he 	何	c=2 d=0.283156 t=2584
+he 	合	c=1 d=0.00582847 t=2584
+he 	和	c=9 d=1.14008 t=2584
+he 	盒	c=2 d=0.0204078 t=2584
+he dui 	核對	c=1 d=0.0115047 t=2584
+he ji 	合計	c=3 d=0.305746 t=2584
+he tong 	合同	c=2 d=0.902697 t=2584
+hei hei 	嘿嘿	c=1 d=0.00509243 t=2584
+hen 	很	c=1 d=0.242926 t=2584
+hen duo 	很多	c=2 d=0.0471288 t=2584
+hen ji 	很急	c=1 d=0.0028799 t=2584
+hen kuai 	很快	c=1 d=0.634448 t=2584
+hen nan 	很難	c=1 d=0.0526021 t=2584
+hong se 	紅色	c=1 d=0.913931 t=2584
+hou 	後	c=4 d=0.147241 t=2584
+hou mian 	後面	c=3 d=0.88692 t=2584
+hou xuan 	候選	c=0 d=0.0985112 t=2584
+hou xuan kuang 	候選框	c=1 d=0.99005 t=2584
+hu 	戶	c=1 d=0.00880368 t=2584
+hua 	畫	c=1 d=0.22329 t=2584
+hua 	華	c=1 d=0.00535353 t=2584
+hua 	話	c=5 d=1.58915 t=2584
+hua bao 	華寶	c=1 d=0.00843808 t=2584
+hua bo li 	畫玻璃	c=1 d=0.782705 t=2584
+hua diao 	花掉	c=1 d=0.00132678 t=2584
+hua shuo 	華碩	c=1 d=0.150318 t=2584
+hua suan 	划算	c=1 d=0.00486835 t=2584
+hua yuan 	花園	c=1 d=0.0195457 t=2584
+huan ying 	歡迎	c=1 d=0.00729913 t=2584
+hui 	匯	c=1 d=0.000636198 t=2584
+hui 	會	c=5 d=1.25603 t=2584
+hui bu qu 	回不去	c=1 d=0.529935 t=2584
+hui da 	回答	c=1 d=0.00334597 t=2584
+hui dan 	回單	c=2 d=0.1764 t=2584
+hui gou 	回購	c=1 d=0.831104 t=2584
+hui qu 	回去	c=1 d=0.121846 t=2584
+hui you 	會有	c=1 d=0.748264 t=2584
+hun 	婚	c=1 d=0.00142298 t=2584
+huo 	或	c=1 d=0.909373 t=2584
+huo dai 	貨代	c=1 d=0.540641 t=2584
+huo qu 	獲取	c=1 d=0.282239 t=2584
+huo wu 	貨物	c=1 d=0.0136366 t=2584
+huo xu 	或許	c=1 d=0.19593 t=2584
+ji 	吉	c=1 d=0.111917 t=2584
+ji 	寄	c=20 d=1.52342 t=2584
+ji 	急	c=1 d=0.00299743 t=2584
+ji ben 	基本	c=1 d=0.869358 t=2584
+ji ben hu 	基本戶	c=1 d=0.0884781 t=2584
+ji cha 	稽查	c=1 d=0.0953692 t=2584
+ji ci 	幾次	c=1 d=0.634448 t=2584
+ji de 	記得	c=2 d=0.101266 t=2584
+ji du 	季度	c=1 d=0.0833256 t=2584
+ji fu 	寄付	c=4 d=0.313486 t=2584
+ji ge 	幾個	c=1 d=0.00118858 t=2584
+ji ge yue 	幾個月	c=1 d=0.494109 t=2584
+ji gei 	寄給	c=1 d=0.860708 t=2584
+ji guo lai 	寄過來	c=1 d=0.010358 t=2584
+ji hui 	機會	c=1 d=0.00151098 t=2584
+ji li 	吉利	c=1 d=0.110251 t=2584
+ji lu 	記錄	c=1 d=0.000921047 t=2584
+ji mao 	雞毛	c=1 d=0.0015415 t=2584
+ji qi ren 	機器人	c=1 d=0.008396 t=2584
+ji shi 	祭師	c=1 d=1 t=2584
+ji su 	極速	c=1 d=0.00737249 t=2584
+ji suan 	計算	c=1 d=0.0564161 t=2584
+ji wei 	幾位	c=1 d=0.140858 t=2584
+ji ye 	幾頁	c=1 d=0.380983 t=2584
+ji yong 	急用	c=1 d=0.360595 t=2584
+jia 	加	c=5 d=0.335815 t=2584
+jia ge 	價格	c=1 d=0.348192 t=2584
+jia ju 	家具	c=1 d=0.238115 t=2584
+jia yuan 	家園	c=1 d=0.0197421 t=2584
+jian 	件	c=1 d=0.00895987 t=2584
+jian 	減	c=1 d=0.941765 t=2584
+jian dan 	簡單	c=2 d=0.012408 t=2584
+jian guan 	監管	c=1 d=0.00591656 t=2584
+jian guan ju 	監管局	c=1 d=0.290835 t=2584
+jian hao 	減號	c=1 d=0.980199 t=2584
+jian ti 	簡體	c=1 d=0.995012 t=2584
+jian yan 	檢驗	c=1 d=0.00307331 t=2584
+jiang 	江	c=1 d=0.102284 t=2584
+jiang 	蔣	c=2 d=0.980199 t=2584
+jiang lei 	江磊	c=2 d=0.152637 t=2584
+jiang li 	獎勵	c=1 d=0.0291588 t=2584
+jiang zi ya 	姜子牙	c=1 d=0.00882647 t=2584
+jiang zong 	蔣總	c=4 d=1.27251 t=2584
+jiao 	交	c=5 d=0.264179 t=2584
+jiao 	叫	c=1 d=0.0642483 t=2584
+jiao 	教	c=1 d=0.29671 t=2584
+jiao fu 	交付	c=1 d=0.0450492 t=2584
+jiao qian 	交錢	c=1 d=0.100761 t=2584
+jiao yu 	教育	c=1 d=0.0161635 t=2584
+jie 	接	c=1 d=0.0513033 t=2584
+jie 	街	c=1 d=0.101266 t=2584
+jie dao 	接到	c=1 d=0.404542 t=2584
+jie dao 	街道	c=1 d=0.683861 t=2584
+jie guo 	結果	c=1 d=0.960789 t=2584
+jie jing 	捷徑	c=1 d=0.280832 t=2584
+jie mi 	解密	c=1 d=0.170333 t=2584
+jie shao 	介紹	c=2 d=0.0241131 t=2584
+jie shou 	接受	c=1 d=0.00794669 t=2584
+jie shu 	結束	c=1 d=0.00843808 t=2584
+jie song 	接送	c=1 d=0.162838 t=2584
+jie tu 	截圖	c=2 d=0.958423 t=2584
+jie zou 	節奏	c=1 d=0.013912 t=2584
+jin 	進	c=2 d=1.44871 t=2584
+jin 	金	c=2 d=0.514274 t=2584
+jin chu kou 	進出口	c=2 d=0.621885 t=2584
+jin e 	金額	c=5 d=0.696231 t=2584
+jin lai 	進來	c=1 d=0.00975476 t=2584
+jin nian 	今年	c=4 d=0.715338 t=2584
+jin qu 	進去	c=2 d=0.162026 t=2584
+jin shen 	謹慎	c=1 d=0.559898 t=2584
+jin tian 	今天	c=4 d=0.424831 t=2584
+jin xiang 	進項	c=5 d=0.307553 t=2584
+jin xing 	進行	c=1 d=0.00782838 t=2584
+jin zong 	金總	c=1 d=0.442639 t=2584
+jing fei 	經費	c=1 d=0.0162445 t=2584
+jing li 	經理	c=1 d=0.460704 t=2584
+jing ying fan wei 	經營範圍	c=1 d=0.937067 t=2584
+jiu 	久	c=2 d=0.0275476 t=2584
+jiu 	就	c=22 d=4.06122 t=2584
+jiu 	玖	c=1 d=0.00937227 t=2584
+jiu ming 	久鳴	c=1 d=0.0812682 t=2584
+jiu shi 	就是	c=15 d=1.77024 t=2584
+ju shuo 	據說	c=1 d=0.00148848 t=2584
+ju ti 	具體	c=3 d=1.08246 t=2584
+jue ding 	決定	c=1 d=0.261846 t=2584
+kai 	開	c=19 d=2.46229 t=2584
+kai chu qu 	開出去	c=1 d=0.000750328 t=2584
+kai guo 	開過	c=1 d=0.923116 t=2584
+kai hao 	開好	c=1 d=0.0113334 t=2584
+kai hu 	開戶	c=3 d=0.278003 t=2584
+kai jin lai 	開進來	c=1 d=0.0513033 t=2584
+kai piao 	開票	c=17 d=3.6488 t=2584
+kai piao zi liao 	開票資料	c=1 d=0.0968105 t=2584
+kai shi 	開始	c=4 d=0.0232934 t=2584
+kai tong 	開通	c=3 d=0.546617 t=2584
+kan 	看	c=11 d=1.66054 t=2584
+kan 	砍	c=1 d=0.0347353 t=2584
+kan dao 	看到	c=2 d=0.299083 t=2584
+kan kan 	看看	c=4 d=0.691795 t=2584
+kao lv 	考慮	c=1 d=0.392586 t=2584
+ke 	客	c=1 d=0.697676 t=2584
+ke hu 	客戶	c=4 d=1.48173 t=2584
+ke neng 	可能	c=1 d=0.187308 t=2584
+ke xing 	可行	c=1 d=0.0132336 t=2584
+ke yi 	可以	c=23 d=3.10735 t=2584
+ke zhuan zhai 	可轉債	c=1 d=0.0800583 t=2584
+ken ding 	肯定	c=4 d=0.891366 t=2584
+kong 	空	c=1 d=0.244143 t=2584
+kong tiao 	空調	c=2 d=0.0508336 t=2584
+kou 	扣	c=7 d=1.3819 t=2584
+kou an 	口岸	c=1 d=0.494109 t=2584
+kou shui 	扣稅	c=1 d=0.0953692 t=2584
+ku fa 	酷發	c=3 d=0.701173 t=2584
+kuai 	快	c=1 d=0.0105672 t=2584
+kuai chuan 	快傳	c=1 d=0.597501 t=2584
+kuai di 	快遞	c=5 d=0.394554 t=2584
+kuai di fei 	快遞費	c=1 d=0.131336 t=2584
+kuai ji 	會計	c=1 d=0.67032 t=2584
+kuai ji shi 	會計師	c=1 d=0.1764 t=2584
+kuang 	框	c=0 d=0.0985112 t=2584
+la 	啦	c=1 d=0.631284 t=2584
+la 	拉	c=2 d=0.617169 t=2584
+la ji 	垃圾	c=1 d=0.0103063 t=2584
+lai 	來	c=5 d=1.02533 t=2584
+lao ban 	老板	c=2 d=0.729789 t=2584
+lao ban niang 	老板娘	c=1 d=0.017953 t=2584
+lao gong 	老公	c=1 d=0.00160441 t=2584
+lao ke hu 	老客戶	c=2 d=0.0434328 t=2584
+lao wai 	老外	c=1 d=0.449329 t=2584
+lao zong 	老總	c=1 d=0.0652193 t=2584
+le 	了	c=81 d=8.68534 t=2584
+le 	樂	c=1 d=0.0106734 t=2584
+le lang 	樂朗	c=2 d=0.0198411 t=2584
+lei bie 	類別	c=1 d=0.0113334 t=2584
+lei ji 	累計	c=1 d=0.00828492 t=2584
+lei ji shu 	累計數	c=2 d=0.0161114 t=2584
+lei si 	類似	c=1 d=0.0031042 t=2584
+li 	李	c=1 d=0.0192547 t=2584
+li 	立	c=1 d=0.995012 t=2584
+li 	裏	c=6 d=1.4719 t=2584
+li 	離	c=2 d=0.00391248 t=2584
+li hun 	離婚	c=1 d=0.00162866 t=2584
+li lun shang 	理論上	c=1 d=0.055299 t=2584
+li run 	利潤	c=0 d=0.000663763 t=2584
+li run biao 	利潤表	c=2 d=0.0135107 t=2584
+li xi 	利息	c=1 d=0.0135009 t=2584
+li xin 	立新	c=1 d=0.00618889 t=2584
+li zi 	例子	c=1 d=0.97531 t=2584
+lian 	聯	c=1 d=0.251887 t=2584
+lian ci 	聯次	c=1 d=0.226502 t=2584
+lian jie 	連接	c=1 d=0.650509 t=2584
+lian shang 	連上	c=1 d=0.588605 t=2584
+lian xi 	聯系	c=1 d=0.0134335 t=2584
+lian xiang 	聯想	c=1 d=0.00687406 t=2584
+liang ge 	兩個	c=1 d=0.0405589 t=2584
+liang zhang 	兩張	c=1 d=0.357007 t=2584
+liao jie 	瞭解	c=1 d=0.209088 t=2584
+ling 	零	c=1 d=0.0134335 t=2584
+ling san 	零散	c=0 d=4.95472e-05 t=2584
+ling yi ge 	另一個	c=1 d=0.366045 t=2584
+ling yong 	領用	c=1 d=0.0426384 t=2584
+liu di 	留底	c=1 d=0.321422 t=2584
+liu liang 	流量	c=1 d=0.199888 t=2584
+liu shui 	流水	c=6 d=2.0619 t=2584
+long 	龍	c=2 d=0.0977834 t=2584
+lou 	樓	c=1 d=0.67368 t=2584
+lou 	漏	c=1 d=0.00267181 t=2584
+lu 	璐	c=1 d=0.00694315 t=2584
+lu 	路	c=1 d=0.0911934 t=2584
+lu you qi 	路由器	c=2 d=0.30064 t=2584
+luo 	駱	c=6 d=1.87751 t=2584
+luo shi 	落實	c=2 d=0.0333219 t=2584
+lv xing 	旅行	c=1 d=0.0104621 t=2584
+lv you 	旅遊	c=1 d=0.00130703 t=2584
+ma 	嗎	c=38 d=4.34548 t=2584
+ma fan 	麻煩	c=4 d=0.0590129 t=2584
+mai 	買	c=1 d=0.00128115 t=2584
+mai ke feng 	麥克風	c=1 d=0.287941 t=2584
+man 	慢	c=1 d=0.0140519 t=2584
+man 	曼	c=1 d=0.000773179 t=2584
+man 	滿	c=1 d=0.0405589 t=2584
+man 	蠻	c=1 d=0.748264 t=2584
+mang 	忙	c=2 d=0.481013 t=2584
+mei 	沒	c=39 d=5.19095 t=2584
+mei cuo 	沒錯	c=1 d=0.344728 t=2584
+mei fa 	沒法	c=4 d=1.90511 t=2584
+mei ge 	每個	c=1 d=0.913931 t=2584
+mei guo 	美國	c=1 d=0.0141223 t=2584
+mei ren 	沒人	c=2 d=0.616979 t=2584
+mei shi 	沒事	c=4 d=0.339945 t=2584
+mei shuo 	沒說	c=1 d=0.00704808 t=2584
+mei xi 	沒戲	c=2 d=0.208045 t=2584
+mei yong 	沒用	c=1 d=0.640824 t=2584
+mei you 	沒有	c=12 d=0.96102 t=2584
+mei yuan 	美元	c=1 d=0.431711 t=2584
+mei yue 	每月	c=1 d=0.000614317 t=2584
+men 	們	c=1 d=0.064894 t=2584
+men 	門	c=1 d=0.67032 t=2584
+meng 	夢	c=1 d=0.00941925 t=2584
+meng chuang 	萌創	c=4 d=1.0386 t=2584
+mi ma 	密碼	c=9 d=1.55217 t=2584
+mian 	面	c=2 d=0.460773 t=2584
+mian shui 	免稅	c=1 d=0.0155297 t=2584
+ming nian 	明年	c=2 d=0.110357 t=2584
+ming tian 	明天	c=5 d=2.32912 t=2584
+ming xi 	明細	c=1 d=0.535261 t=2584
+ming xi biao 	明細表	c=1 d=0.000539429 t=2584
+ming xiang 	明翔	c=3 d=0.390794 t=2584
+ming zi 	名字	c=4 d=1.25641 t=2584
+mo 	莫	c=1 d=0.00477195 t=2584
+mo kuai 	模塊	c=1 d=0.0432828 t=2584
+mo ni 	模擬	c=1 d=0.00628242 t=2584
+mo shui 	墨水	c=1 d=0.802519 t=2584
+mu bo 	木博	c=2 d=0.170904 t=2584
+mu duo 	木多	c=2 d=0.687289 t=2584
+mu lu 	目錄	c=1 d=0.873716 t=2584
+mu qian 	目前	c=1 d=0.0728029 t=2584
+na 	拿	c=3 d=0.360595 t=2584
+na 	那	c=16 d=1.20369 t=2584
+na bian 	那邊	c=6 d=0.481257 t=2584
+na dao 	拿到	c=1 d=0.440432 t=2584
+na dao 	那倒	c=1 d=0.0220377 t=2584
+na ge 	哪個	c=1 d=0.225373 t=2584
+na ge 	那個	c=4 d=0.0925506 t=2584
+na jiu 	那就	c=1 d=0.0113902 t=2584
+na li 	哪裏	c=1 d=0.00726273 t=2584
+na me 	那麼	c=1 d=0.00135358 t=2584
+na shui ren 	納稅人	c=1 d=0.0669239 t=2584
+na xie 	那些	c=2 d=0.167392 t=2584
+na zhong 	那種	c=1 d=0.0253494 t=2584
+nan 	男	c=1 d=0.650509 t=2584
+nan dao 	難道	c=1 d=0.995012 t=2584
+nan mian 	南面	c=1 d=0.00951391 t=2584
+nan tong 	南通	c=2 d=0.0016299 t=2584
+ne 	呢	c=11 d=1.91688 t=2584
+nei hao 	內耗	c=1 d=0.031117 t=2584
+nei rong 	內容	c=3 d=0.514274 t=2584
+nei xiao 	內銷	c=1 d=0.0497871 t=2584
+neng 	能	c=7 d=1.20041 t=2584
+neng bu neng 	能不能	c=1 d=0.472367 t=2584
+ni 	你	c=55 d=4.14044 t=2584
+ni de 	你的	c=1 d=0.0168231 t=2584
+ni hao 	你好	c=2 d=0.668366 t=2584
+ni men 	你們	c=3 d=0.386741 t=2584
+nian 	年	c=16 d=1.98273 t=2584
+nian chu 	年初	c=1 d=0.56836 t=2584
+nian jun 	年均	c=1 d=0.995012 t=2584
+nian san 	廿三	c=0 d=0.0677057 t=2584
+nian san li 	廿三裏	c=1 d=0.680451 t=2584
+nin 	您	c=2 d=0.0165441 t=2584
+nong 	弄	c=4 d=0.996403 t=2584
+nong ge 	弄個	c=1 d=0.0685632 t=2584
+nuo nuo 	諾諾	c=1 d=0.0443785 t=2584
+o 	哦	c=10 d=0.873716 t=2584
+ou 	偶	c=1 d=0.869358 t=2584
+ou yue 	甌越	c=1 d=0.105399 t=2584
+pai 	拍	c=1 d=0.0195457 t=2584
+pai hang 	排行	c=1 d=0.00904991 t=2584
+pai hang bang 	排行榜	c=1 d=0.00878245 t=2584
+pai xu 	排序	c=2 d=0.0109239 t=2584
+pai zhao 	拍照	c=1 d=0.0114473 t=2584
+pan duan 	判斷	c=1 d=0.158025 t=2584
+pan li 	盤裏	c=1 d=0.0461896 t=2584
+pei he 	配合	c=2 d=0.218778 t=2584
+pei zhi 	配置	c=1 d=0.00577048 t=2584
+peng 	彭	c=2 d=0.51358 t=2584
+peng you 	朋友	c=1 d=0.109154 t=2584
+pi cha 	劈叉	c=1 d=0.0116786 t=2584
+pi pei 	匹配	c=1 d=0.261846 t=2584
+pian yi 	便宜	c=1 d=0.756486 t=2584
+pian yi dian 	便宜點	c=1 d=0.341298 t=2584
+piao 	票	c=3 d=0.293395 t=2584
+pin lei 	品類	c=1 d=0.918512 t=2584
+po jie 	破解	c=1 d=0.00660453 t=2584
+pu tong 	普通	c=3 d=0.0665862 t=2584
+qi 	器	c=1 d=0.0117371 t=2584
+qi 	期	c=2 d=0.0276857 t=2584
+qi 	琪	c=1 d=0.316637 t=2584
+qi 	齊	c=1 d=0.0773047 t=2584
+qi che 	汽車	c=3 d=0.338023 t=2584
+qi dong 	啓動	c=1 d=0.603506 t=2584
+qi lai 	起來	c=2 d=0.91484 t=2584
+qi ta 	其他	c=6 d=2.58287 t=2584
+qi ye 	企業	c=5 d=0.352704 t=2584
+qian 	千	c=2 d=0.399813 t=2584
+qian 	欠	c=2 d=0.0198391 t=2584
+qian 	籤	c=0 d=0.00399551 t=2584
+qian 	錢	c=7 d=1.82433 t=2584
+qian chu 	遷出	c=2 d=0.0426431 t=2584
+qian he tong 	籤合同	c=1 d=0.0401553 t=2584
+qian mian 	前面	c=2 d=1 t=2584
+qian ru han 	遷入函	c=2 d=0.0159707 t=2584
+qian xu 	謙虛	c=1 d=0.444858 t=2584
+qian zi 	籤字	c=1 d=0.591555 t=2584
+qiao 	喬	c=1 d=0.0409665 t=2584
+qie huan 	切換	c=1 d=0.148823 t=2584
+qing 	情	c=1 d=0.0995012 t=2584
+qing chang 	慶昌	c=2 d=1.27913 t=2584
+qing kuang 	情況	c=3 d=0.421527 t=2584
+qu 	區	c=1 d=0.0997588 t=2584
+qu 	去	c=9 d=1.74598 t=2584
+qu 	取	c=4 d=2.91116 t=2584
+qu bie 	區別	c=1 d=0.955997 t=2584
+qu hui 	取回	c=1 d=0.71177 t=2584
+quan 	券	c=1 d=0.0792617 t=2584
+quan wen 	全文	c=1 d=0.00831246 t=2584
+quan zhong 	權重	c=1 d=0.895834 t=2584
+que ding 	確定	c=1 d=0.806541 t=2584
+que qie 	確切	c=1 d=0.0490458 t=2584
+que ren 	確認	c=2 d=0.00119328 t=2584
+que shi 	確實	c=1 d=0.25284 t=2584
+qun 	羣	c=1 d=0.00302755 t=2584
+ran hou 	然後	c=1 d=0.00782838 t=2584
+rang 	讓	c=3 d=0.896438 t=2584
+ren 	人	c=3 d=0.837914 t=2584
+ren 	任	c=1 d=0.386741 t=2584
+ren yuan 	人員	c=1 d=0.0225956 t=2584
+ren zheng 	認證	c=1 d=0.774916 t=2584
+ri 	日	c=1 d=0.000757869 t=2584
+ri yong pin 	日用品	c=2 d=1.32109 t=2584
+rong 	榮	c=4 d=1.35785 t=2584
+rong xiu 	榮秀	c=1 d=0.690734 t=2584
+rong zi 	融資	c=2 d=0.00119926 t=2584
+ru guo 	如果	c=2 d=0.981656 t=2584
+ru zhang 	入賬	c=1 d=0.353455 t=2584
+ruan jian 	軟件	c=1 d=0.588605 t=2584
+rui 	瑞	c=2 d=0.267485 t=2584
+rui 	睿	c=2 d=0.156165 t=2584
+san ge yue 	三個月	c=1 d=0.416862 t=2584
+sao 	掃	c=2 d=0.600496 t=2584
+sao miao 	掃描	c=1 d=0.0119742 t=2584
+sha 	啥	c=1 d=0.346456 t=2584
+sha yi si 	啥意思	c=1 d=0.0159229 t=2584
+shan diao 	刪掉	c=1 d=0.759572 t=2584
+shang 	上	c=2 d=0.802519 t=2584
+shang ban 	上班	c=1 d=0.013912 t=2584
+shang biao 	商標	c=1 d=0.433874 t=2584
+shang chuan 	上傳	c=1 d=0.00860854 t=2584
+shang ci 	上次	c=2 d=0.83543 t=2584
+shang ge 	上個	c=2 d=0.0318099 t=2584
+shang hai 	上海	c=1 d=0.0746459 t=2584
+shang hang 	商行	c=1 d=0.00653881 t=2584
+shang jiao 	上交	c=1 d=0.0104099 t=2584
+shang mao 	商貿	c=3 d=0.253764 t=2584
+shang men 	上門	c=1 d=0.167797 t=2584
+shang mian 	上面	c=2 d=0.0308074 t=2584
+shang wu 	上午	c=1 d=0.173774 t=2584
+shao 	少	c=1 d=0.965605 t=2584
+shao 	邵	c=2 d=0.269828 t=2584
+she bao 	社保	c=7 d=0.985112 t=2584
+she bei 	設備	c=2 d=0.822835 t=2584
+she zhi 	設置	c=3 d=0.677057 t=2584
+shen bao 	申報	c=5 d=0.0560484 t=2584
+shen bao biao 	申報表	c=1 d=0.00740944 t=2584
+shen fen zheng 	身份證	c=1 d=0.0816756 t=2584
+shen he 	審核	c=3 d=0.816092 t=2584
+shen ji 	審計	c=1 d=0.197899 t=2584
+shen me 	什麼	c=7 d=1.87092 t=2584
+shen me yang 	什麼樣	c=1 d=0.19593 t=2584
+shen qing 	申請	c=2 d=0.0198083 t=2584
+shen qing shu 	申請書	c=1 d=0.904837 t=2584
+sheng chan 	生產	c=2 d=0.108609 t=2584
+sheng ji 	升級	c=1 d=0.522046 t=2584
+sheng xin 	省心	c=1 d=0.00174675 t=2584
+sheng yi 	生意	c=1 d=0.00104368 t=2584
+shi 	市	c=1 d=1 t=2581
+shi 	是	c=42 d=7.06554 t=2584
+shi 	試	c=1 d=0.66034 t=2584
+shi bai 	失敗	c=2 d=1.27655 t=2584
+shi bu shi 	是不是	c=3 d=0.771052 t=2584
+shi chang 	市場	c=1 d=0.289384 t=2584
+shi de 	是的	c=3 d=0.985112 t=2584
+shi guo 	試過	c=1 d=0.631284 t=2584
+shi hou 	時候	c=1 d=0.00132016 t=2584
+shi jian 	時間	c=2 d=0.13332 t=2584
+shi pin 	飾品	c=2 d=0.0195183 t=2584
+shi qing 	事情	c=1 d=0.00319873 t=2584
+shi shi 	試試	c=4 d=2.088 t=2584
+shi wu suo 	事務所	c=1 d=0.177284 t=2584
+shi yong 	使用	c=1 d=0.00733572 t=2584
+shi yong 	試用	c=1 d=0.726149 t=2584
+shi zai 	實在	c=1 d=0.0125881 t=2584
+shou 	收	c=1 d=0.425283 t=2584
+shou ci 	首次	c=1 d=0.201897 t=2584
+shou dao 	收到	c=5 d=1.07411 t=2584
+shou fei 	收費	c=2 d=1.05778 t=2584
+shou hou 	售後	c=1 d=0.826959 t=2584
+shou ji 	手機	c=6 d=3.59376 t=2584
+shou jian 	收件	c=1 d=0.000916453 t=2584
+shou jian ren 	收件人	c=1 d=0.137381 t=2584
+shou na 	收納	c=3 d=0.0307158 t=2584
+shou quan 	授權	c=1 d=0.0536647 t=2584
+shou xu 	手續	c=3 d=0.00569824 t=2584
+shu 	數	c=1 d=0.00832263 t=2584
+shu biao 	鼠標	c=2 d=0.017022 t=2584
+shu ju 	數據	c=9 d=2.79549 t=2584
+shu qian 	淑倩	c=1 d=0.00647375 t=2584
+shu ru 	輸入	c=2 d=0.985112 t=2584
+shu ru fa 	輸入法	c=2 d=0.0117778 t=2584
+shu zi 	數字	c=1 d=0.744532 t=2584
+shua xin 	刷新	c=1 d=0.315058 t=2584
+shuang 	雙	c=3 d=0.324652 t=2584
+shuang jie 	雙傑	c=2 d=0.865022 t=2584
+shuang pin 	雙拼	c=3 d=1.29751 t=2584
+shui 	稅	c=3 d=0.119433 t=2584
+shui 	誰	c=1 d=0.740818 t=2584
+shui dian 	稅點	c=1 d=0.0685632 t=2584
+shui kuan 	稅款	c=3 d=1.37167 t=2584
+shui wu 	稅務	c=1 d=0.0266491 t=2584
+shui wu ju 	稅務局	c=2 d=0.901285 t=2584
+shui zhong 	稅種	c=2 d=0.0289687 t=2584
+shuo 	碩	c=1 d=0.00932553 t=2584
+shuo 	說	c=8 d=0.907984 t=2584
+shuo dao 	說到	c=1 d=0.88692 t=2584
+si 	思	c=2 d=0.155386 t=2584
+si ren 	私人	c=1 d=0.0057994 t=2584
+song 	送	c=1 d=0.16696 t=2584
+song ling san 	送零散	c=1 d=0.000497955 t=2584
+suan 	算	c=4 d=1.98977 t=2584
+sui bian 	隨便	c=2 d=0.597584 t=2584
+suo yi 	所以	c=3 d=0.535261 t=2584
+ta 	他	c=4 d=0.913948 t=2584
+ta ban 	踏板	c=2 d=0.00960953 t=2584
+ta men 	他們	c=9 d=1.01695 t=2584
+tai 	太	c=3 d=0.744532 t=2584
+tai 	泰	c=1 d=0.112478 t=2584
+tai da 	太大	c=1 d=0.00166156 t=2584
+tan xiao 	攤銷	c=4 d=0.00241556 t=2584
+tao 	套	c=1 d=0.246597 t=2584
+tao bao 	淘寶	c=1 d=0.00752142 t=2584
+ti gong 	提供	c=2 d=0.400517 t=2584
+ti huan 	替換	c=1 d=0.985112 t=2584
+ti jiao 	提交	c=6 d=1.18483 t=2584
+ti shi 	提示	c=4 d=0.0184819 t=2584
+tian 	填	c=2 d=0.771052 t=2584
+tian mi 	甜蜜	c=1 d=0.0196437 t=2584
+tian tai 	天台	c=1 d=0.232236 t=2584
+ting 	挺	c=1 d=0.00878245 t=2584
+ting diao 	停掉	c=1 d=0.0244775 t=2584
+tong 	童	c=1 d=0.344728 t=2584
+tong bu 	同步	c=1 d=0.0206508 t=2584
+tong ji 	統計	c=2 d=0.514274 t=2584
+tong yi 	統一	c=1 d=0.000642592 t=2584
+tong zhi 	通知	c=1 d=0.548812 t=2584
+tou zi 	投資	c=1 d=0.00168667 t=2584
+tui 	退	c=2 d=0.239483 t=2584
+tui shui 	退稅	c=6 d=0.543051 t=2584
+tui xiao 	推銷	c=1 d=0.045502 t=2584
+tuo 	拓	c=1 d=0.00806679 t=2584
+tuo 	拖	c=1 d=0.00543443 t=2584
+tuo che 	拖車	c=0 d=0.0514274 t=2584
+tuo che fei 	拖車費	c=1 d=0.516851 t=2584
+tuo fan 	拓凡	c=2 d=0.0163259 t=2584
+wa sai 	哇塞	c=1 d=0.0010333 t=2584
+wai hui 	外匯	c=4 d=0.414783 t=2584
+wai mao 	外貿	c=1 d=0.107528 t=2584
+wai mian 	外面	c=1 d=0.0221482 t=2584
+wai xiao 	外銷	c=1 d=0.440432 t=2584
+wan 	萬	c=6 d=0.561945 t=2584
+wan de 	萬得	c=1 d=0.900325 t=2584
+wang 	王	c=8 d=1.31636 t=2584
+wang 	網	c=1 d=0.97531 t=2584
+wang ji 	忘記	c=1 d=0.00279479 t=2584
+wang shang 	網上	c=1 d=0.207008 t=2584
+wang yin 	網銀	c=1 d=0.177284 t=2584
+wang zhan 	網站	c=1 d=0.00869506 t=2584
+wei 	位	c=2 d=0.125556 t=2584
+wei 	未	c=4 d=0.163786 t=2584
+wei 	煒	c=5 d=1.2667 t=2584
+wei lai 	未來	c=4 d=0.0360658 t=2584
+wei sha 	爲啥	c=1 d=0.458406 t=2584
+wei tuo 	委託	c=2 d=0.600496 t=2584
+wei xin 	微信	c=1 d=0.349938 t=2584
+wen 	問	c=7 d=1.95132 t=2584
+wen 	文	c=1 d=0.0761538 t=2584
+wen ben 	文本	c=2 d=1.94099 t=2584
+wen ding 	穩定	c=1 d=0.546074 t=2584
+wen guo 	問過	c=1 d=0.211189 t=2584
+wen jian 	文件	c=4 d=0.960789 t=2584
+wen ti 	問題	c=9 d=1.78597 t=2584
+wen wen 	問問	c=6 d=1.04494 t=2584
+wen zhang 	文章	c=1 d=0.00208081 t=2584
+wo 	我	c=57 d=6.27944 t=2584
+wo 	蝸	c=1 d=0.000495472 t=2584
+wo men 	我們	c=6 d=1.59818 t=2584
+wo shuo 	我說	c=1 d=0.000508015 t=2584
+wo yao 	我要	c=1 d=0.900325 t=2584
+wu 	吳	c=1 d=0.00657159 t=2584
+wu 	無	c=1 d=0.10435 t=2584
+wu bi 	務必	c=1 d=0.0206508 t=2584
+wu bi 	無比	c=1 d=0.0202419 t=2584
+wu fa 	無法	c=1 d=0.00775048 t=2584
+wu jie 	無解	c=1 d=0.00191125 t=2584
+wu jin 	五金	c=1 d=0.0065062 t=2584
+wu qu 	五區	c=4 d=0.66365 t=2584
+wu tiao 	五條	c=1 d=0.0288686 t=2584
+xi 	夕	c=2 d=0.164607 t=2584
+xi guan 	習慣	c=2 d=0.0547526 t=2584
+xi tong 	系統	c=8 d=3.48435 t=2584
+xia 	下	c=2 d=0.0105213 t=2584
+xia 	瞎	c=0 d=0.00236356 t=2584
+xia ban 	下班	c=2 d=0.777515 t=2584
+xia ci 	下次	c=1 d=0.054204 t=2584
+xia dan 	下單	c=1 d=0.0132336 t=2584
+xia lai 	下來	c=1 d=0.166127 t=2584
+xia zai 	下載	c=2 d=0.57695 t=2584
+xia zhe teng 	瞎折騰	c=2 d=0.0281677 t=2584
+xian 	先	c=12 d=1.18734 t=2584
+xian shi 	顯示	c=2 d=1.16608 t=2584
+xian zai 	現在	c=11 d=0.831104 t=2584
+xian zi 	仙子	c=1 d=0.0132999 t=2584
+xiang 	向	c=2 d=0.0740177 t=2584
+xiang 	想	c=1 d=0.241714 t=2584
+xiang bao 	箱包	c=1 d=0.774916 t=2584
+xiang fu 	相符	c=1 d=0.0182243 t=2584
+xiang guan 	相關	c=2 d=0.00437006 t=2584
+xiang mu 	項目	c=1 d=0.509156 t=2584
+xiang xi 	詳細	c=2 d=0.27908 t=2584
+xiao 	曉	c=2 d=0.985112 t=2584
+xiao gui mo 	小規模	c=5 d=0.220874 t=2584
+xiao he 	小鶴	c=2 d=0.451581 t=2584
+xiao shou 	銷售	c=1 d=0.0137049 t=2584
+xiao yao 	逍遙	c=1 d=0.0995012 t=2584
+xiao yao wen qing 	逍遙問情	c=1 d=1 t=2584
+xie 	寫	c=2 d=0.927743 t=2584
+xie xie 	謝謝	c=1 d=0.0285814 t=2584
+xie zi 	鞋子	c=1 d=0.0710054 t=2584
+xin 	信	c=1 d=0.0057994 t=2584
+xin 	新	c=5 d=1.05083 t=2584
+xin ban 	新版	c=2 d=0.0126913 t=2584
+xin gu 	新股	c=1 d=0.170333 t=2584
+xin gu 	新谷	c=1 d=0.171187 t=2584
+xin li 	欣麗	c=1 d=0.771052 t=2584
+xin xi 	信息	c=4 d=0.123041 t=2584
+xin yong 	信用	c=1 d=0.000645813 t=2584
+xing 	星	c=1 d=0.0753961 t=2584
+xing 	行	c=2 d=0.265803 t=2584
+xing fei 	興飛	c=1 d=0.031273 t=2584
+xing fu 	幸福	c=1 d=0.246597 t=2584
+xiu gai 	修改	c=1 d=0.265803 t=2584
+xiu zheng 	修正	c=1 d=0.257947 t=2584
+xiu zheng an 	修正案	c=1 d=0.265803 t=2584
+xu 	須	c=2 d=0.0109782 t=2584
+xu yao 	需要	c=3 d=0.729789 t=2584
+xuan 	選	c=3 d=0.0459488 t=2584
+xuan ze 	選擇	c=2 d=0.992825 t=2584
+xue 	學	c=1 d=0.25284 t=2584
+xue 	雪	c=3 d=0.99005 t=2584
+xue fen 	學分	c=1 d=0.0051953 t=2584
+xun 	迅	c=1 d=0.00538036 t=2584
+ya 	呀	c=2 d=0.694197 t=2584
+ya 	壓	c=1 d=0.0141931 t=2584
+ya yu 	雅譽	c=2 d=0.0577445 t=2584
+yan 	言	c=1 d=0.0746459 t=2584
+yan fa bu 	研發部	c=1 d=0.0222592 t=2584
+yan zheng ma 	驗證碼	c=1 d=0.882497 t=2584
+yang 	楊	c=2 d=0.123929 t=2584
+yang 	樣	c=1 d=0.0434998 t=2584
+yang zi 	樣子	c=3 d=0.56421 t=2584
+yao 	要	c=38 d=4.41029 t=2584
+yao kan 	要看	c=1 d=0.856415 t=2584
+yao me 	要麼	c=3 d=0.517023 t=2584
+yao qiu 	要求	c=2 d=0.814647 t=2584
+yao si 	要死	c=1 d=0.0483156 t=2584
+ye 	也	c=24 d=2.35828 t=2584
+ye 	葉	c=1 d=0.00358858 t=2584
+ye shi 	也是	c=1 d=0.00474815 t=2584
+ye wu 	業務	c=2 d=0.537944 t=2584
+ye wu liang 	業務量	c=1 d=0.484325 t=2584
+ye wu yuan 	業務員	c=1 d=0.0500366 t=2584
+yi 	億	c=1 d=0.00873865 t=2584
+yi 	已	c=1 d=0.0916297 t=2584
+yi ban 	一般	c=4 d=1.7672 t=2584
+yi ban na shui ren 	一般納稅人	c=1 d=0.0072265 t=2584
+yi ci 	一次	c=1 d=0.0209629 t=2584
+yi di 	一地	c=1 d=0.00153381 t=2584
+yi dian 	一點	c=3 d=0.0446553 t=2584
+yi ding yao 	一定要	c=1 d=0.0100017 t=2584
+yi dun fan 	一頓飯	c=1 d=0.759572 t=2584
+yi ge 	一個	c=9 d=1.30607 t=2584
+yi ge ren 	一個人	c=1 d=0.0187793 t=2584
+yi jing 	已經	c=5 d=0.330229 t=2584
+yi liao 	醫療	c=1 d=0.145148 t=2584
+yi lou 	一樓	c=3 d=0.347712 t=2584
+yi nei 	以內	c=1 d=0.00615802 t=2584
+yi nian 	一年	c=6 d=1.15284 t=2584
+yi qi 	一起	c=5 d=0.462784 t=2584
+yi qian 	以前	c=4 d=0.028297 t=2584
+yi sao 	一掃	c=1 d=0.603506 t=2584
+yi shang 	以上	c=1 d=1 t=2584
+yi si 	意思	c=3 d=0.752014 t=2584
+yi tian 	一天	c=2 d=0.0854371 t=2584
+yi wei 	以爲	c=1 d=0.114178 t=2584
+yi wu 	義務	c=1 d=1 t=2582
+yi wu 	義烏	c=3 d=1.22544 t=2584
+yi wu gou 	義烏購	c=1 d=0.0389686 t=2584
+yi wu shi 	義烏市	c=4 d=1.11332 t=2584
+yi xia 	一下	c=25 d=3.43503 t=2584
+yi xie 	一些	c=1 d=0.218712 t=2584
+yi yang 	一樣	c=2 d=1 t=2584
+yi yi 	異議	c=1 d=0.425283 t=2584
+yi yuan 	醫院	c=1 d=0.904837 t=2584
+yi zhang 	一張	c=1 d=0.0495388 t=2584
+yin hang 	銀行	c=8 d=0.758102 t=2584
+yin wei 	因爲	c=2 d=0.138761 t=2584
+yin xiang 	印象	c=1 d=0.878095 t=2584
+ying 	盈	c=1 d=0.105928 t=2584
+ying gai 	應該	c=8 d=0.950112 t=2584
+ying wen 	英文	c=1 d=0.00530026 t=2584
+ying xiang 	影響	c=1 d=0.818731 t=2584
+ying xiao 	營銷	c=1 d=0.0505395 t=2584
+yong 	永	c=1 d=0.00660453 t=2584
+yong 	用	c=7 d=1.20587 t=2584
+yong pin 	用品	c=3 d=0.339717 t=2584
+you 	又	c=2 d=0.551596 t=2584
+you 	有	c=25 d=3.64526 t=2584
+you da 	優達	c=1 d=0.021068 t=2584
+you dian 	有點	c=3 d=0.951229 t=2584
+you ge 	有個	c=5 d=0.53 t=2584
+you kong 	有空	c=2 d=0.726149 t=2584
+you le 	有了	c=1 d=0.810584 t=2584
+you xian 	有限	c=4 d=0.422179 t=2584
+you xian gong si 	有限公司	c=1 d=0.97531 t=2584
+you xie 	有些	c=1 d=0.737123 t=2584
+you ya 	優雅	c=1 d=0.00670434 t=2584
+you yi 	友誼	c=1 d=0.970446 t=2584
+you yong 	有用	c=1 d=0.594521 t=2584
+you zheng 	郵政	c=1 d=0.00591656 t=2584
+yu 	域	c=1 d=0.0132999 t=2584
+yu 	宇	c=1 d=0.0739031 t=2584
+yu 	於	c=3 d=0.0569084 t=2584
+yu 	虞	c=1 d=0.0121846 t=2584
+yu e 	餘額	c=1 d=0.00054485 t=2584
+yu long 	玉龍	c=1 d=0.138761 t=2584
+yu long 	禹龍	c=1 d=0.139457 t=2584
+yu suan 	預算	c=1 d=0.0129068 t=2584
+yu zhi yue 	虞智躍	c=1 d=0.122456 t=2584
+yuan 	元	c=4 d=1.35418 t=2584
+yuan 	園	c=0 d=0.0683861 t=2584
+yuan dong 	苑東	c=2 d=1.3145 t=2584
+yuan lai 	原來	c=1 d=0.763379 t=2584
+yuan zu 	元組	c=1 d=0.00546167 t=2584
+yue 	月	c=20 d=3.58195 t=2584
+yue 	越	c=2 d=1.97521 t=2584
+yue 	躍	c=1 d=0.0117371 t=2584
+yue di 	月底	c=1 d=0.0197421 t=2584
+yue fen 	月份	c=8 d=1.03475 t=2584
+yun 	暈	c=1 d=0.718924 t=2584
+yun 	雲	c=1 d=0.0176891 t=2584
+yun lv 	韻律	c=2 d=0.0095616 t=2584
+yun ying 	運營	c=2 d=1.84191 t=2584
+za 	咋	c=2 d=0.00246491 t=2584
+zai 	再	c=4 d=0.657047 t=2584
+zai 	在	c=14 d=1.5201 t=2584
+zen me 	怎麼	c=16 d=3.0944 t=2584
+zen me yang 	怎麼樣	c=1 d=0.99005 t=2584
+zeng jia 	增加	c=1 d=0.0204453 t=2584
+zeng liang 	增量	c=1 d=0.319819 t=2584
+zeng zhi shui 	增值稅	c=1 d=0.00369786 t=2584
+zhai quan 	債券	c=1 d=0.0135686 t=2584
+zhang 	帳	c=1 d=0.0523397 t=2584
+zhang 	張	c=4 d=0.30314 t=2584
+zhang 	章	c=2 d=0.597501 t=2584
+zhang cheng 	章程	c=2 d=0.521139 t=2584
+zhang de 	長得	c=1 d=0.282239 t=2584
+zhang hao 	帳號	c=5 d=1.15595 t=2584
+zhang jia 	張家	c=0 d=0.0683861 t=2584
+zhang jia 	漲價	c=2 d=0.0652717 t=2584
+zhang jia yuan 	張家園	c=1 d=0.687289 t=2584
+zhang shang 	賬上	c=1 d=0.937067 t=2584
+zhang wu 	帳務	c=1 d=0.0578443 t=2584
+zhao 	找	c=6 d=0.912127 t=2584
+zhao dao 	找到	c=5 d=0.643149 t=2584
+zhao ji 	着急	c=1 d=0.0148464 t=2584
+zhao li 	照理	c=1 d=0.267135 t=2584
+zhao pian 	照片	c=1 d=0.0780817 t=2584
+zhao qiang 	趙強	c=1 d=0.102797 t=2584
+zhe 	折	c=1 d=0.729789 t=2584
+zhe 	者	c=1 d=0.00766535 t=2584
+zhe 	這	c=2 d=0.747752 t=2584
+zhe bian 	這邊	c=2 d=0.380269 t=2584
+zhe ci 	這次	c=2 d=1.11511 t=2584
+zhe ge 	這個	c=22 d=4.54784 t=2584
+zhe ge yue 	這個月	c=2 d=0.606531 t=2584
+zhe hang 	這行	c=1 d=0.0325493 t=2584
+zhe jiang 	浙江	c=1 d=0.0198411 t=2584
+zhe jiang sheng 	浙江省	c=2 d=0.67368 t=2584
+zhe li 	這裏	c=7 d=1.51593 t=2584
+zhe liang ge 	這兩個	c=1 d=0.481909 t=2584
+zhe me 	這麼	c=3 d=0.826959 t=2584
+zhe piao 	這票	c=2 d=0.0119742 t=2584
+zhe suan lv 	折算率	c=1 d=0.079659 t=2584
+zhe teng 	折騰	c=0 d=0.00236356 t=2584
+zhe xie 	這些	c=4 d=0.42789 t=2584
+zhe yang 	這樣	c=8 d=1.43907 t=2584
+zhe zhang 	這張	c=2 d=0.01649 t=2584
+zhe zhong 	這種	c=1 d=0.00451658 t=2584
+zheng 	正	c=1 d=0.0742736 t=2584
+zheng 	證	c=2 d=0.436049 t=2584
+zheng ce 	政策	c=2 d=0.031967 t=2584
+zheng chang 	正常	c=4 d=1.83272 t=2584
+zheng jiu 	拯救	c=0 d=0.000687406 t=2584
+zheng jiu zhe 	拯救者	c=1 d=0.00690852 t=2584
+zheng ming 	證明	c=1 d=0.99005 t=2584
+zheng quan 	證券	c=2 d=0.0264684 t=2584
+zheng shu 	證書	c=2 d=1.53884 t=2584
+zheng wu 	政務	c=1 d=0.965605 t=2584
+zhi 	智	c=1 d=0.0116786 t=2584
+zhi 	至	c=3 d=0.0571937 t=2584
+zhi bo 	直播	c=1 d=0.00711891 t=2584
+zhi dao 	知道	c=3 d=0.571691 t=2584
+zhi fu bao 	支付寶	c=2 d=0.597501 t=2584
+zhi gong 	職工	c=1 d=0.0160829 t=2584
+zhi jie 	直接	c=3 d=2.03197 t=2584
+zhi na jin 	滯納金	c=1 d=0.752014 t=2584
+zhi neng 	只能	c=2 d=1.53579 t=2584
+zhi qian 	之前	c=1 d=0.0132999 t=2584
+zhi yao 	只要	c=1 d=0.100259 t=2584
+zhi ying 	智影	c=1 d=0.798516 t=2584
+zhi you 	只有	c=1 d=0.0135686 t=2584
+zhi yue 	智躍	c=2 d=0.257175 t=2584
+zhi zhao 	執照	c=2 d=0.559898 t=2584
+zhi zhi 	制止	c=1 d=0.00878245 t=2584
+zhi zhi 	紙質	c=1 d=0.00882647 t=2584
+zhong 	中	c=3 d=0.0245687 t=2584
+zhong 	種	c=1 d=0.00453922 t=2584
+zhong hang 	中行	c=1 d=0.000518277 t=2584
+zhong ji 	中級	c=1 d=0.666977 t=2584
+zhong wen 	中文	c=1 d=1 t=2584
+zhou 	州	c=1 d=0.000808767 t=2584
+zhou wu 	周五	c=2 d=0.23947 t=2584
+zhou yi 	周一	c=1 d=0.0102549 t=2584
+zhu ban 	主板	c=1 d=0.00887071 t=2584
+zhu bao 	珠寶	c=1 d=0.0107269 t=2584
+zhu ce 	注冊	c=1 d=0.085435 t=2584
+zhu shou 	助手	c=2 d=0.571668 t=2584
+zhu xiao 	注消	c=1 d=0.0250972 t=2584
+zhu xiao 	注銷	c=2 d=0.831104 t=2584
+zhu yao 	主要	c=2 d=0.149575 t=2584
+zhua jin 	抓緊	c=6 d=0.0382707 t=2584
+zhuan 	賺	c=1 d=0.923116 t=2584
+zhuan 	轉	c=1 d=0.00554422 t=2584
+zhuan piao 	專票	c=2 d=0.0502874 t=2584
+zhuan zhang 	轉賬	c=1 d=0.0057417 t=2584
+zhuang shi 	裝飾	c=2 d=0.171761 t=2584
+zhui hui 	追回	c=1 d=0.092089 t=2584
+zi 	姿	c=1 d=0.000777055 t=2584
+zi 	字	c=1 d=0.254107 t=2584
+zi chan 	資產	c=2 d=0.0134761 t=2584
+zi dai 	自帶	c=1 d=0.715338 t=2584
+zi ding yi 	自定義	c=2 d=1.23175 t=2584
+zi dong 	自動	c=3 d=0.24538 t=2584
+zi ji 	自己	c=4 d=0.326626 t=2584
+zi kai 	自開	c=1 d=0.00436124 t=2584
+zi liao 	資料	c=6 d=0.607156 t=2584
+zi mao qu 	自貿區	c=1 d=0.26054 t=2584
+zi xun 	諮詢	c=3 d=0.251076 t=2584
+zi yo 	子喲	c=1 d=0.591555 t=2584
+zi you du 	自由度	c=1 d=0.0140519 t=2584
+zong zhang 	總賬	c=1 d=0.588605 t=2584
+zou 	走	c=3 d=0.488443 t=2584
+zu he 	組合	c=1 d=0.0131675 t=2584
+zui 	最	c=1 d=0.00173804 t=2584
+zui di 	最低	c=1 d=0.267135 t=2584
+zui hou 	最後	c=4 d=0.477793 t=2584
+zui zhong 	最終	c=1 d=0.0437178 t=2584
+zuo 	做	c=6 d=0.355564 t=2584
+zuo deng 	坐等	c=1 d=0.909373 t=2584
+zuo tian 	昨天	c=3 d=0.209088 t=2584
