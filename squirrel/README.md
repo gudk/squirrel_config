@@ -12,6 +12,6 @@
 ## 安装
 
 - 备份原配置
-- [最新鼠须管下载](https://dl.bintray.com/rime/squirrel/)
+- [最新鼠须管下载](https://dl.bintray.com/rime/squirrel/),有些功能需要使用测试版。
 - 复制 2021 目录下文件到 ~/Library/Rime/
 - 鼠须管菜单，点击部署与同步
