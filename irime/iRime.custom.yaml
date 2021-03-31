@@ -7,7 +7,7 @@ patch:
     is_insert_symbol_auto_insert_candiate: true
     is_show_candidate_comment: false
     is_show_select_input_icon: false
-    current_chinese_type: 2
+    current_chinese_type: 0
   preset_keyboards:
     default:
         author: "iRime"
