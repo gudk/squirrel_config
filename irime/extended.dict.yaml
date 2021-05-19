@@ -12,7 +12,7 @@ import_tables:
   - pinyin_simp
   - placeless_punct
   #- clover.base
-  #- clover.phrase
+  - clover.phrase
   - THUOCL_animal
   - THUOCL_caijing
   - THUOCL_car

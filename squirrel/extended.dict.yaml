@@ -3,7 +3,7 @@
 
 ---
 name: extended
-version: "2020.12.30"
+version: "2021.05.01"
 sort: by_weight
 vocabulary: essay-zh-hans
 use_preset_vocabulary: true
@@ -11,4 +11,18 @@ use_preset_vocabulary: true
 import_tables:
   - pinyin_simp
   - placeless_punct
+  #- clover.base
+  - clover.phrase
+  - THUOCL_animal
+  - THUOCL_caijing
+  - THUOCL_car
+  - THUOCL_chengyu
+  - THUOCL_diming
+  - THUOCL_food
+  - THUOCL_IT
+  - THUOCL_law
+  - THUOCL_lishimingren
+  - THUOCL_medical
+  - THUOCL_poem
+  - sogou_new_words
 ...
