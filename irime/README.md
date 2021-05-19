@@ -17,3 +17,6 @@
 - 替换 /Library/Input Methods/Squirrel/Contents/SharedSupport/opencc/ 目录下的同名文件 TSCharacter.ocd
 - 复制其他文件到 ~/Library/Rime/
 - 鼠须管菜单，点击部署与同步
+
+## 自己的一些自定义
+这个方案用到手机上，会有英文输入没法直接上屏的问题。所以配置文件重新做修改，把英文输入和数字输入调整一下。另外 irime增加了自定义布局的功能，所以做一个适合自己的布局。

@@ -1,0 +1,6 @@
+2021/04/12-09:04:46.223694 0x10495bdc0 Recovering log #249
+2021/04/12-09:04:46.361219 0x10495bdc0 Delete type=0 #249
+2021/04/12-09:04:46.361303 0x10495bdc0 Delete type=3 #247
+2021/04/12-10:17:04.901669 0x7000071ac000 Compacting 3@0 + 1@1 files
+2021/04/12-10:17:04.903102 0x7000071ac000 compacted to: files[ 3 1 0 0 0 0 0 ]
+2021/04/12-10:17:04.903116 0x7000071ac000 Compaction error: NotFound: /Users/administrator/Library/Rime/extended.userdb/000245.ldb: No such file or directory

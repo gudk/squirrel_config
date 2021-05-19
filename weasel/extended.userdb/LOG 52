@@ -1,0 +1,4 @@
+2021/05/02-09:20:13.591992 0x70000502b000 Log #327: 143 ops saved to Table #328 OK
+2021/05/02-09:20:13.592822 0x70000502b000 Archiving /Users/administrator/Library/Rime/extended.userdb/000327.log: OK
+2021/05/02-09:20:13.592872 0x70000502b000 Table #328: 143 entries OK
+2021/05/02-09:20:13.606552 0x70000502b000 **** Repaired leveldb /Users/administrator/Library/Rime/extended.userdb; recovered 1 files; 4038 bytes. Some data may have been lost. ****
